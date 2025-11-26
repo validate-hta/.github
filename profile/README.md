@@ -1,8 +1,8 @@
 # Welcome 👋
 
-* 🚀 We are focused on [Your Core Mission].
-* 💻 We are passionate about [Technology 1], [Technology 2], and [Technology 3].
-* 🌍 We are a [remote-first / global / location-based] team.
+* 🚀 We are focused on Health Technology Assessement (HTA) in R
+* 💻 We are passionate about trust, interoperability, and reuse in HTA code.
+* 🌍 We are a part of a wider HTA in R movement
 
 
 ### 🤝 How to Get Involved
