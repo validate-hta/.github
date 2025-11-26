@@ -20,6 +20,3 @@ We welcome all contributions! Whether you're a developer, designer, or just have
 For official inquiries, you can reach us at [contact@your-org.com].
 
 ---
-<p align="center">
-  <small>Copyright © [YEAR] [YOUR_ORGANIZATION_NAME]</small>
-</p>
