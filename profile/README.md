@@ -17,6 +17,6 @@ We welcome all contributions! Whether you're a developer, designer, or just have
 
 ### 📫 Get in Touch
 
-For official inquiries, you can reach us at [contact@your-org.com].
+For inquiries, you can reach us at [n.green@ucl.ac.uk].
 
 ---
